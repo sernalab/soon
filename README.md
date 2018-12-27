@@ -1,2 +1,2 @@
 # Soon™
-https://sernalab.github.io/soon/
+# https://sernalab.github.io/soon/
